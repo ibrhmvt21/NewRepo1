@@ -18,8 +18,8 @@ public class GoogleDemo extends TestBase {
         driver.get("https://www.google.com");
 
 
-      driver.findElement(By.xpath("//input[@title='Search']")).sendKeys( "selenium cookbook"+ Keys.ENTER);
-      Assert.assertTrue(driver.getTitle().contains("selenium cookbook"));
+        driver.findElement(By.xpath("//input[@title='Search']")).sendKeys( "selenium cookbook"+ Keys.ENTER);
+        Assert.assertTrue(driver.getTitle().contains("selenium cookbook"));
 
     }
 

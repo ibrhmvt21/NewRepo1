@@ -97,17 +97,17 @@ public class WebTablesExample extends TestBase {
     //print by coordinates
     @Test
     public void printByCoordinates() {
-    login();
+        login();
 
-    WebElement cell = driver.findElement(
-            By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr[6]/td[11]"));
+        WebElement cell = driver.findElement(
+                By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr[6]/td[11]"));
 
-      //  System.out.println(cell.getText());
+        //  System.out.println(cell.getText());
 
         System.out.println(getCell(6,11).getText());
     }
 
-public WebElement getCell(int row, int col){
+    public WebElement getCell(int row, int col){
         String xpath="//table[@id='ctl00_MainContent_orderGrid']/tbody/tr["+row+"]/td["+col+"]";
 
         return driver.findElement(By.xpath(xpath));
@@ -158,7 +158,7 @@ public WebElement getCell(int row, int col){
             }
         }
         Assert.assertTrue(found);
-         found = false;
+        found = false;
         int cityIndex = getColumnIndex("City");
         System.out.println(cityIndex);
         List<WebElement> allCities = driver.findElements(
@@ -176,17 +176,17 @@ public WebElement getCell(int row, int col){
     get a column name as parameters
     returns the index of column name
      */
-        public int getColumnIndex (String column){
-            List<WebElement> allheaders = driver.findElements(
-                    By.xpath("//table[@id='ctl00_MainContent_orderGrid']//th"));
+    public int getColumnIndex (String column){
+        List<WebElement> allheaders = driver.findElements(
+                By.xpath("//table[@id='ctl00_MainContent_orderGrid']//th"));
 
-            for (int i = 0; i < allheaders.size(); i++) {
-                if (allheaders.get(i).getText().equalsIgnoreCase(column)) {
-                    return i + 1;
-                }
+        for (int i = 0; i < allheaders.size(); i++) {
+            if (allheaders.get(i).getText().equalsIgnoreCase(column)) {
+                return i + 1;
             }
-
-            return 0;
         }
+
+        return 0;
+    }
 
 }

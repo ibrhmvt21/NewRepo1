@@ -17,7 +17,6 @@ public class SearchResultsVerifications {
         1.Open Amazon
         2.Enter search termSelenium cookbook
         3.Verify each result contains work Selenium
-
         TC 3: Search results verifications
         1.Open Amazon
         2.Enter search termSelenium cookbook
@@ -30,30 +29,30 @@ public class SearchResultsVerifications {
 
 
 
-         WebDriver driver;
-         @BeforeClass
-         public void getWebsite(){
-            WebDriverManager.chromedriver().setup();
-            driver = new ChromeDriver();
-            driver.get("https://amazon.com");
+    WebDriver driver;
+    @BeforeClass
+    public void getWebsite(){
+        WebDriverManager.chromedriver().setup();
+        driver = new ChromeDriver();
+        driver.get("https://amazon.com");
 
 
-        }
+    }
 
 
-        //3.Verify each result contains work Selenium
-        @Test
-       public void SearchResult() {
+    //3.Verify each result contains work Selenium
+    @Test
+    public void SearchResult() {
 
-            WebElement input = driver.findElement(By.id("twotabsearchtextbox"));
-            input.sendKeys("Selenium cookbook" + Keys.ENTER);
-            WebElement result = driver.findElement(By.xpath("html/body/div[1]/div[2]/div/div[3]/div[2]/div/div[4]/div[1]/div/ul/li[1]/div/div/div/div[2]/div[1]/div[1]/a/h2"));
-            String s1= result.getText().toLowerCase();
-            Assert.assertTrue(s1.contains("selenium"));
-        }
+        WebElement input = driver.findElement(By.id("twotabsearchtextbox"));
+        input.sendKeys("Selenium cookbook" + Keys.ENTER);
+        WebElement result = driver.findElement(By.xpath("html/body/div[1]/div[2]/div/div[3]/div[2]/div/div[4]/div[1]/div/ul/li[1]/div/div/div/div[2]/div[1]/div[1]/a/h2"));
+        String s1= result.getText().toLowerCase();
+        Assert.assertTrue(s1.contains("selenium"));
+    }
 
-        @AfterClass
+    @AfterClass
     public void CloseBrowser(){
-             driver.close();
-        }
+        driver.close();
+    }
 }

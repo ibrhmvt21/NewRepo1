@@ -39,7 +39,7 @@ public class verifyTextDisappearTest extends TestBase {
         WebElement button = driver.findElement(By.xpath("//body/button"));
         button.click();
 
-       // Assert.assertFalse(text.isDisplayed()); will throw stale element error
+        // Assert.assertFalse(text.isDisplayed()); will throw stale element error
         Assert.assertFalse(elementDisplayed(By.xpath("//body/p")));
     }
 

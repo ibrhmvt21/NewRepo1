@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c0535f1-87cb-47ea-ac86-e39df3056432" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AssertionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AssertionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DependenciesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DependenciesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DepertmentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DepertmentsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DifferentAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DifferentAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ErrorMessageValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ErrorMessageValidationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/GoogleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/GoogleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/MixedAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/MixedAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/OrderOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/OrderOfThings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SearchResultsVerifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SearchResultsVerifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/work/singletonExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/work/singletonExample.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,136 +17,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/MixedAnnotations.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExpilicitWait2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#679#680#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-                <element signature="e#1006#1007#0" expanded="true" />
-                <element signature="e#1044#1045#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/MoreDependenciesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/OrderOfThings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SearchResultsVerifications.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1646#1647#0" expanded="true" />
-                <element signature="e#1676#1677#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestNGDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="191" column="1" selection-start-line="191" selection-start-column="1" selection-end-line="191" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWait.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1005">
-              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+            <state relative-caret-position="-252">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1895#1896#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplitWaitExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExceptionsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -177,10 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/HTMLPopup.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/JSAlert.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/SwitchOptions.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/iFrameDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/FileExists.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/TabsExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/DropDown.java" />
@@ -191,8 +88,6 @@
         <option value="$PROJECT_DIR$/src/test/java/utilities/Example.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Driver.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/pages/prestaShopHomePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/pages/homePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java" />
@@ -228,6 +123,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWait.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplitWaitExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExceptionsDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExpilicitWait2.java" />
       </list>
     </option>
   </component>
@@ -335,7 +236,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548452383047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548463609457" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -366,7 +267,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AssertionsDemo">
+  <component name="RunManager" selected="TestNG.ExpilicitWait2.test">
+    <configuration name="singletonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.work.singletonExample" />
+      <module name="mavenprojectz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AssertionsDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenprojectz" />
       <extension name="coverage">
@@ -377,6 +291,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.AssertionsDemo" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpilicitWait2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavenprojectz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExpilicitWait2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -394,24 +326,6 @@
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExplicitWaitExample" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SleepAndImplicitWaitExample.implicitWait" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="mavenprojectz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.SleepAndImplicitWaitExample" />
-      <option name="METHOD_NAME" value="implicitWait" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -437,31 +351,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepAndImplicitWaitExample.testSleep" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="mavenprojectz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.SleepAndImplicitWaitExample" />
-      <option name="METHOD_NAME" value="testSleep" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ExpilicitWait2.test" />
+        <item itemvalue="Application.singletonExample" />
         <item itemvalue="TestNG.AssertionsDemo" />
         <item itemvalue="TestNG.ExplicitWaitExample.test" />
         <item itemvalue="TestNG.SleepAndImplicitWaitExample.implicitWait2" />
-        <item itemvalue="TestNG.SleepAndImplicitWaitExample.implicitWait" />
-        <item itemvalue="TestNG.SleepAndImplicitWaitExample.testSleep" />
       </list>
     </recent_temporary>
   </component>
@@ -479,35 +375,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SleepAndImplicitWaitExample_implicitWait2 - 2019.01.22 at 20h 39m 45s.xml">
-      <configuration name="SleepAndImplicitWaitExample.implicitWait2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SleepAndImplicitWaitExample_implicitWait2 - 2019.01.22 at 20h 44m 55s.xml">
-      <configuration name="SleepAndImplicitWaitExample.implicitWait2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SleepAndImplicitWaitExample_implicitWait2 - 2019.01.22 at 21h 22m 23s.xml">
-      <configuration name="SleepAndImplicitWaitExample.implicitWait2" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExplicitWaitExample_test - 2019.01.22 at 21h 26m 41s.xml">
-      <configuration name="ExplicitWaitExample.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExplicitWaitExample_test - 2019.01.22 at 21h 28m 13s.xml">
-      <configuration name="ExplicitWaitExample.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExplicitWaitExample_test - 2019.01.22 at 21h 29m 53s.xml">
-      <configuration name="ExplicitWaitExample.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExplicitWaitExample_test - 2019.01.22 at 21h 34m 10s.xml">
-      <configuration name="ExplicitWaitExample.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExplicitWaitExample_test - 2019.01.22 at 21h 45m 35s.xml">
-      <configuration name="ExplicitWaitExample.test" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AssertionsDemo - 2019.01.25 at 16h 08m 05s.xml">
-      <configuration name="AssertionsDemo" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="AssertionsDemo - 2019.01.25 at 16h 09m 21s.xml">
       <configuration name="AssertionsDemo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AssertionsDemo - 2019.01.25 at 19h 15m 28s.xml">
+      <configuration name="AssertionsDemo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AssertionsDemo - 2019.01.25 at 19h 15m 43s.xml">
+      <configuration name="AssertionsDemo" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 33m 44s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 34m 41s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 39m 24s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 40m 16s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 40m 44s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 41m 00s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpilicitWait2_test - 2019.01.25 at 19h 42m 28s.xml">
+      <configuration name="ExpilicitWait2.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -523,7 +419,7 @@
     <frame x="0" y="23" width="1280" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714055" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27544427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -532,7 +428,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19967794" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33655393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.1900161" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -580,34 +476,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="378" selection-start-line="378" selection-end-line="378" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="357" selection-start-line="357" selection-end-line="357" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="979">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="497" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -706,20 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/work/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/work/Checkboxes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -779,16 +633,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWaitExample.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitExample.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -956,18 +800,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/MixedAnnotations.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#951#952#0" expanded="true" />
-            <element signature="e#1006#1007#0" expanded="true" />
-            <element signature="e#1044#1045#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1839#1840#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="191" column="1" selection-start-line="191" selection-start-column="1" selection-end-line="191" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestNGDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SearchResultsVerifications.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/OrderOfThings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -988,85 +899,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/OrderOfThings.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/MixedAnnotations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="280">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/work/singletonExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/work/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SearchResultsVerifications.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-            <element signature="e#1676#1677#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SoftAssertionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/TestNGDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExceptionsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/WebTablesExample.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExpilicitWait2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="191" column="1" selection-start-line="191" selection-start-column="1" selection-end-line="191" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/hwTests.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplitWaitExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="419">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/verifyTextDisappearTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWait.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+        <state relative-caret-position="-252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1839#1840#0" expanded="true" />
-            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
           </folding>
         </state>
       </provider>

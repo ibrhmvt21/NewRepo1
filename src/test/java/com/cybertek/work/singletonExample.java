@@ -8,7 +8,9 @@ public class singletonExample {
         String one = Singleton.get();
         System.out.println("one " + one);
 
-        String too = Singleton.get();
+
+
+         String too = Singleton.get();
         System.out.println("too " + too);
     }
 }
